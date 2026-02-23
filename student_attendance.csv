@@ -1,0 +1,5 @@
+student_id,course_id,attended_classes,total_classes
+1,101,12,20
+2,101,18,20
+3,102,8,20
+4,103,19,20
