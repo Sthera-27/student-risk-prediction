@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-psycopg2-binary
-pandas
-scikit-learn
-joblib
-streamlit
-request
